@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<h3 align="center">A Passionate Software | Full Stack Developer</h3>
+<h3 align="center">Software | Full Stack Developer</h3>
 
 <!-- Add a GIF at the start -->
 <p align="center">
