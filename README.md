@@ -17,6 +17,9 @@
 
 🔗 **Connect with Me:**
 <p align="left">
+  <a href="mailto:anshukumar3552@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/email.svg" alt="Email" height="30" width="40"/>
+  </a>
   <a href="https://linkedin.com/in/anshu-kumar-63259521b" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
