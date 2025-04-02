@@ -8,7 +8,7 @@
 
 ### 🛠 About Me:
 - 🔭 Currently working on **Chat-app**
-- 🌱 Exploring **MERN Stack & WebSockets**
+- 🌱 Exploring **Springboot, Angular & WebSockets**
 - 💡 Passionate about **Backend Systems & Full stack**
 - 📫 Reach me at **anshukumar3552@gmail.com**
 
