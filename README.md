@@ -31,7 +31,7 @@
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="LeetCode 8 Days Badge" width="100" />
 </p>
 
-### ⚡ Tech Stack:
+⚡ **Tech Stack:**
 #### **Languages:**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
