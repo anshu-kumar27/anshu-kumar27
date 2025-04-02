@@ -3,7 +3,7 @@
 
 <!-- Add a GIF at the start -->
 <p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b7611fcwza252if091tvlg8x8zvai06zzw2qj47zamdv6&ep=v1_gifs_search&rid=giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif?cid=ecf05e47vtxca3bmkqjr5ebcz0rst2nyuagij1l2uw44khs4&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coding GIF" width="500" />
 </p>
 
 🛠 **About Me:**
@@ -22,6 +22,9 @@
   </a>
   <a href="https://leetcode.com/u/anshukumar3552/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/a.kumar0_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
@@ -54,8 +57,8 @@
 
 **Backend & Databases:**
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
