@@ -7,8 +7,10 @@
 </p>
 
 🛠 **About Me:**
+
+Once upon a time, I wrote my first ‘Hello, World!’ and never looked back. Now, I build scalable backends, craft sleek frontends, and optimize performance like a digital handyman.
 - 🔭 Currently working on **Chat-app**
-- 🌱 Exploring **Springboot, Angular & WebSockets**
+- 🌱 Exploring **Springboot, React & WebSockets**
 - 💡 Passionate about **Backend Systems & Full stack**
 - 📫 Reach me at **anshukumar3552@gmail.com**
 
